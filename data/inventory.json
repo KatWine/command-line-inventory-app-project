@@ -1,17 +1,17 @@
 [
     {
         "name":"",
-        "priceInCents":"",
+        "priceInCents":30,
         "inStock":true
     }
     {
         "name":"",
-        "priceInCents":"",
+        "priceInCents":30,
         "inStock":true
     }
     {
         "name":"",
-        "priceInCents":"",
+        "priceInCents":30,
         "inStock":true
     }
 ]

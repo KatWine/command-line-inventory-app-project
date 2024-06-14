@@ -4,7 +4,12 @@
   "description": "##setup instructions and a guide/cheatsheet on how to user your application (what commands are available, show some sample commands).##",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "index": "node index.js index",
+    "create": "node index.js create",
+    "show": "node index.js show",
+    "update": "node index.js update",
+    "destroy": "node index.js destroy"
   },
   "keywords": [],
   "author": "Katlyn Winegardner",
