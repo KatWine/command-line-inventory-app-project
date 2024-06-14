@@ -1,0 +1,16 @@
+{
+  "name": "command-line-inventory-app-project",
+  "version": "1.0.0",
+  "description": "##setup instructions and a guide/cheatsheet on how to user your application (what commands are available, show some sample commands).##",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Katlyn Winegardner",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nanoid": "^3.3.7"
+  }
+}
